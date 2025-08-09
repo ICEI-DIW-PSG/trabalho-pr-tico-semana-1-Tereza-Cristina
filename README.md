@@ -9,11 +9,11 @@ Matricula: 900751
 
 ## Tela de inspeção com navegador
 
-[Imagem da inspeção do navegador](images/print_inspecao.png)
+![Imagem da inspeção do navegador](images/print_inspecao.png)
 
 ## Tela de projeto no Replit
 
-[Imagem do projeto no Replit](images/Replit.png)
+![Imagem do projeto no Replit](images/Replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
