@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Tereza Cristina Rodrigues Silva
+Matricula: 900751
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+[Imagem da inspeção do navegador](images/print_inspecao.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+[Imagem do projeto no Replit](images/Replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
